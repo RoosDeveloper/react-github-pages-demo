@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/react-github-pages-demo/build/static/js/main.750dd5dc.js",
+    "static/media/default.png": "/react-github-pages-demo/build/static/media/default.839095234d0085434a5f.png",
+    "static/media/tv.png": "/react-github-pages-demo/build/static/media/tv.a634213b1e5607957f14.png",
+    "static/media/blog2.jpg": "/react-github-pages-demo/build/static/media/blog2.aba7a3cb94805e9557d1.jpg",
+    "static/media/fondo6.webp": "/react-github-pages-demo/build/static/media/fondo6.f7e4a530f36dc6044fa1.webp",
+    "static/media/2.jpeg": "/react-github-pages-demo/build/static/media/2.10cd0f349997799280ef.jpeg",
+    "static/media/6.jpeg": "/react-github-pages-demo/build/static/media/6.9e67831bdf0658d4b098.jpeg",
+    "static/media/multiplatform.png": "/react-github-pages-demo/build/static/media/multiplatform.8b914847710d9b974723.png",
+    "static/media/5.jpeg": "/react-github-pages-demo/build/static/media/5.e480a619ec32382a66f7.jpeg",
+    "static/media/4.jpeg": "/react-github-pages-demo/build/static/media/4.e378755ffbba0577be10.jpeg",
+    "static/media/3.jpeg": "/react-github-pages-demo/build/static/media/3.f493e1572eb2445bd53c.jpeg",
+    "static/media/1.jpeg": "/react-github-pages-demo/build/static/media/1.120057fbf29966a0dfd9.jpeg",
+    "static/media/firestick2.jpg": "/react-github-pages-demo/build/static/media/firestick2.d615416b6676f2480b5a.jpg",
+    "index.html": "/react-github-pages-demo/build/index.html",
+    "main.750dd5dc.js.map": "/react-github-pages-demo/build/static/js/main.750dd5dc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.750dd5dc.js"
+  ]
+}
